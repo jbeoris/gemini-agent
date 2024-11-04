@@ -1,0 +1,1 @@
+export const EmptyResponseError = new Error('Received an empty response from Index.');
